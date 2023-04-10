@@ -10,8 +10,8 @@ Welcome to Hello-RTD's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   A/a.md
-   B/b.md
+   md/A/a.md
+   md/B/b.md
 
 
 
