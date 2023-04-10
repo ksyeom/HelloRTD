@@ -9,6 +9,9 @@ Welcome to Hello-RTD's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   A/a.md
+   B/b.md
 
 
 
@@ -18,6 +21,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-A/a.md
-B/b.md
